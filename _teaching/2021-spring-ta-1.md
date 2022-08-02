@@ -8,13 +8,4 @@ date: 2021-03-25
 location: "Beijing, China"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+This course is an all-English course, mainly explaining application layer protocols and cutting-edge knowledge. As a teaching assistant, my main responsibility is to implement experimental demos, and guide students to learn and write related codes.
