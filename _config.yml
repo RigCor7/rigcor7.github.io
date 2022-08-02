@@ -89,7 +89,7 @@ author:
   # googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : "zhaoyuqi@bupt.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              : "files/YuqiZhao.pdf"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -149,7 +149,7 @@ exclude:
 keep_files:
   - .git
   - .svn
-encoding: "utf-8"
+encoding: "UTF-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 
