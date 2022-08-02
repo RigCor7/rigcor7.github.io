@@ -1,9 +1,9 @@
 ---
 title: "Internet Application"
-collection: Teaching Assistant
+collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2021-spring-ta-1
-venue: "BUPT, School of Computer Science"
+venue: "BUPT"
 date: 2021-03-25
 location: "Beijing, China"
 ---
