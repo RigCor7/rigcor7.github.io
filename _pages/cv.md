@@ -30,20 +30,16 @@ Research experience
 Project experience
 ======
 * 2021 – 2022, **Federated Learning System Based on Consortium Chain**
-  * Design and implement a reliable and secure federated learning system.
-  * Coordinate work as a team leader;
-  * Build Consortium chain distributed and Federated Learning System; 
-  * Develop chaincode.
-
+  * *Intro:* Design and implement a reliable and secure federated learning system.
+  * *Duties:* Coordinate work as a team leader; Write smart contract and demo; Deploy Consortium chain distributed and FL System.
+  
 * 2020 – 2021, **Active Measurement System Based on IPv6**
-  * Implement an active probe based on IPv4/IPv6
-  * Coordinate work as a team leader;
-  * Implement probe functions, including probe measurement, authentication, control functions, etc.
+  * *Intro:* Implement an active probe system based on IPv4/IPv6.
+  * *Duties:* Coordinate work as a team leader; Implement probe functions, including probe measurements, authentication, etc.
 
 * 2019 – 2020, **A Mobile App for Collecting Network Measurement Data (Undergraduate Final Project)**
-  * Implement an App that can measure the surrounding network conditions of users and display the results in data visualizations.
-  *	Measure basic network information, including bandwidth, delay, DNS resolution, etc;
-  * Implement data visualization.
+  * *Intro:* Implement an App that can measure the network conditions of users and visualize the results.
+  *	*Duties:* Measure basic network information, including bandwidth, DNS resolution, etc; Implement data visualization.
 
 Teaching
 ======
@@ -55,6 +51,9 @@ Skills
 ======
 * Python, C, Java, SQL
 * Docker, Pytorch
+  
+[Resume](../files/Yuqi_Zhao_CV.pdf)
+======
 
 <!-- Publications
 ======
