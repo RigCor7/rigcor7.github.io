@@ -7,8 +7,8 @@ main:
   #   url: /talks/    
 
   - title: "CV"
-    url: /files/Yuqi_Zhao_CV.pdf
-    # url: /cv/
+    # url: /files/Yuqi_Zhao_CV.pdf
+    url: /cv/
 
   - title: "Teaching"
     url: /teaching/    
