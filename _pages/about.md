@@ -19,6 +19,3 @@ I am seeking for CS/ECE PhD opportunities.
 - Next Generation Internet
 
 - Network and Web Security
-
-<script async src="//static.getclicky.com/101381430.js"></script>
-<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/101381430ns.gif" /></p></noscript>
