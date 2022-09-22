@@ -21,13 +21,13 @@ Education
   * GPA: 86.13/100 (12/180)
   * Relevant Courses: Data Structures (91), Internet Protocols (92), Security and Authentication (95).
 
-Research experience
+Research Experience
 ======
 * 2021 - Present: A Semi-Asynchronous Federated Multi-task Learning with masked feature aggregation (**Paper in submitting**)
   * Mitigating model accuracy degradation due to data heterogeneity;
   * Mitigating the problem of long training time due to device heterogeneity.
 
-Project experience
+Project Experiences
 ======
 * 2021 – 2022, **Federated Learning System Based on Consortium Chain**
   * *Intro:* Design and implement a reliable and secure federated learning system.
