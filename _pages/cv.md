@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: [CV](../files/Yuqi_Zhao_CV.pdf)
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -24,30 +24,25 @@ Education
 Research experience
 ======
 * 2021 - Present: A Semi-Asynchronous Federated Multi-task Learning with masked feature aggregation (**Paper in submitting**)
-  * Mitigating model accuracy degradation due to data heterogeneity through multi-task learning;
-  * Mitigating the problem of excessive time consumption due to device heterogeneity by asynchronous training
+  * Mitigating model accuracy degradation due to data heterogeneity;
+  * Mitigating the problem of long training time due to device heterogeneity.
 
-Research experience
+Project experience
 ======
 * 2021 – 2022, **Federated Learning System Based on Consortium Chain**
 Design and implement a reliable and secure federated learning system.
   * Coordinate work as a team leader;
-  * Build Consortium chain distributed; 
-  * Development of Consortium chain chaincode and upper layer interface; 
-  * Combination of federated learning and Consortium chain.
+  * Build Consortium chain distributed and Federated Learning System; 
+  * Develop chaincode.
 
 * 2020 – 2021, **Active Measurement System Based on IPv6**
 Implement an active probe based on IPv4/IPv6
   * Coordinate work as a team leader;
-  *	Implement the path measurement function;
-  * Implements the probe authentication and control function;
-  * Implement probes scheduling function.
+  * Implement probe functions, including probe measurement, authentication, control functions, etc.
 
 * 2019 – 2020, **A Mobile App for Collecting Network Measurement Data (Undergraduate Final Project)**
-Implemeny an Android App that can measure the user's surrounding network conditions and display the results to the user in data visualizations.
-  * Coordinate work as a team leader;
-  *	Measure basic network information, bandwidth, and delay;
-  * Test device connectivity and DNS resolution;
+Implement an Android App that can measure the user's surrounding network conditions and display the results to the user in data visualizations.
+  *	Measure basic network information, including bandwidth, delay, DNS resolution, etc;
   * Implement data visualization.
 
 Teaching
