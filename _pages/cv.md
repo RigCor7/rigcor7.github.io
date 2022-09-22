@@ -30,16 +30,16 @@ Research Experience
 Project Experiences
 ======
 * 2021 – 2022, **Federated Learning System Based on Consortium Chain**
-  * *Intro:* Design and implement a reliable and secure federated learning system.
-  * *Duties:* Coordinate work as a team leader; Write smart contract and demo; Deploy Consortium chain distributed and FL System.
+  * Intro: Design and implement a reliable and secure federated learning system.
+  * Duties: Coordinate work as a team leader; Write smart contract and demo; Deploy Consortium chain distributed and FL System.
   
 * 2020 – 2021, **Active Measurement System Based on IPv6**
-  * *Intro:* Implement an active probe system based on IPv4/IPv6.
-  * *Duties:* Coordinate work as a team leader; Implement probe functions, including probe measurements, authentication, etc.
+  * Intro: Implement an active probe system based on IPv4/IPv6.
+  * Duties: Coordinate work as a team leader; Implement probe functions, including probe measurements, authentication, etc.
 
 * 2019 – 2020, **A Mobile App for Collecting Network Measurement Data (Undergraduate Final Project)**
-  * *Intro:* Implement an App that can measure the network conditions of users and visualize the results.
-  *	*Duties:* Measure basic network information, including bandwidth, DNS resolution, etc; Implement data visualization.
+  * Intro: Implement an App that can measure the network conditions of users and visualize the results.
+  *	Duties: Measure basic network information, including bandwidth, DNS resolution, etc; Implement data visualization.
 
 Teaching
 ======
