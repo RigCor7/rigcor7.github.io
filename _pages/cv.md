@@ -16,7 +16,7 @@ Education
   * GPA: 85/100
 * 2016 - 2020, B.S. in E-Commerce Engineering with Law, Queen Mary University of London(QMUL), **Bachelor of Science (Engineering) with First Class Honors**
   * Joint Bachelor Degree Programmes with BUPT
-* 2016 - 2020, B.S. in E-Commerce Engineering with Law, BUPT, Bachelor of Management
+* 2016 - 2020, B.S. in E-Commerce Engineering with Law, BUPT
   * Minor in Internet of Things Engineering
   * GPA: 86.13/100 (12/180)
   * Relevant Courses: Data Structures (91), Internet Protocols (92), Security and Authentication (95).
