@@ -20,6 +20,5 @@ I am seeking for CS/ECE PhD opportunities.
 
 - Network and Web Security
 
-<a title="Privacy-friendly Web Analytics" href="https://clicky.com/101381429"><img alt="Clicky" src="//static.getclicky.com/media/links/badge.gif" border="0" /></a>
-<script async src="//static.getclicky.com/101381429.js"></script>
-<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/101381429ns.gif" /></p></noscript>
+<a title="GDPR-compliant Web Analytics" href="https://clicky.com/101381430"><img alt="Clicky" src="//static.getclicky.com/media/links/badge.gif" border="0" /></a>
+<script async src="//static.getclicky.com/101381430.js"></script>
