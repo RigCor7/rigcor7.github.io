@@ -82,7 +82,7 @@ analytics:
 author:
   name             : 
   avatar           : "profile.png"
-  # bio              : "Your biography for the left-hand sidebar"
+  bio              : "./files/Yuqi_Zhao_CV.pdf"
   location         : "Beijing, China"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -115,7 +115,6 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  resume           : "./files/Yuqi_Zhao_CV.pdf"
 
 
 # Reading Files
