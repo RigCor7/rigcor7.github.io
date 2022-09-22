@@ -30,17 +30,20 @@ Research experience
 Project experience
 ======
 * 2021 – 2022, **Federated Learning System Based on Consortium Chain**
+
 Design and implement a reliable and secure federated learning system.
   * Coordinate work as a team leader;
   * Build Consortium chain distributed and Federated Learning System; 
   * Develop chaincode.
 
 * 2020 – 2021, **Active Measurement System Based on IPv6**
+
 Implement an active probe based on IPv4/IPv6
   * Coordinate work as a team leader;
   * Implement probe functions, including probe measurement, authentication, control functions, etc.
 
 * 2019 – 2020, **A Mobile App for Collecting Network Measurement Data (Undergraduate Final Project)**
+
 Implement an Android App that can measure the user's surrounding network conditions and display the results to the user in data visualizations.
   *	Measure basic network information, including bandwidth, delay, DNS resolution, etc;
   * Implement data visualization.
