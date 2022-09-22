@@ -10,7 +10,7 @@ redirect_from:
 
 ## Bio
 
-I am a third-year graduate student at [Beijing University of Posts and Telecommunications (BUPT)](https://www.bupt.edu.cn/) majoring in Computer Science and Technology. Before that, I got Bachelor of Science (Engineering) with First Class Honors from a joint program between BUPT and [Queen Mary University of London (QMUL)](https://www.qmul.ac.uk/) in 2020.
+I am a third-year graduate student at [Beijing University of Posts and Telecommunications (BUPT)](https://en.wikipedia.org/wiki/Beijing_University_of_Posts_and_Telecommunications) majoring in Computer Science and Technology. Before that, I got Bachelor of Science (Engineering) with First Class Honors from a joint program between BUPT and [Queen Mary University of London (QMUL)](https://www.qmul.ac.uk/) in 2020.
 
 I am seeking for CS/ECE PhD opportunities.
 
