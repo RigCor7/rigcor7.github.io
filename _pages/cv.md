@@ -23,7 +23,7 @@ Education
 
 Research Experience
 ======
-* 2021 - Present: A Semi-Asynchronous Federated Multi-task Learning with masked feature aggregation (**Paper in submitting**)
+* 2021 - Present, A Semi-Asynchronous Federated Multi-task Learning with masked feature aggregation (**Paper in submitting**)
   * Mitigating model accuracy degradation due to data heterogeneity;
   * Mitigating the problem of long training time due to device heterogeneity.
 
