@@ -23,7 +23,7 @@ Education
 
 Research Experience
 ======
-* 2021 - Present, A Semi-Asynchronous Federated Multi-task Learning with masked feature aggregation (**Paper in submitting**)
+* 2021 - Present, **A Semi-Asynchronous Federated Multi-task Learning with masked feature aggregation (MSc Thesis) (Paper in submitting)**
   * Mitigating model accuracy degradation due to data heterogeneity;
   * Mitigating the problem of long training time due to device heterogeneity.
 
@@ -37,7 +37,7 @@ Project Experiences
   * Intro: Implement an active probe system based on IPv4/IPv6.
   * Duties: Coordinate work as a team leader; Implement probe functions, including probe measurements, authentication, etc.
 
-* 2019 – 2020, **A Mobile App for Collecting Network Measurement Data (Undergraduate Final Project)**
+* 2019 – 2020, **A Mobile App for Collecting Network Measurement Data (BSc Thesis)**
   * Intro: Implement an App that can measure the network conditions of users and visualize the results.
   *	Duties: Measure basic network information, including bandwidth, DNS resolution, etc; Implement data visualization.
 
