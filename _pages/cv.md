@@ -18,7 +18,7 @@ Education
   * Joint Bachelor Degree Programmes with BUPT
 * 2016 - 2020, B.S. in E-Commerce Engineering with Law, BUPT
   * Minor in Internet of Things Engineering
-  * GPA: 86.06/100 )
+  * GPA: 86.06/100 (16/171)
   * Relevant Courses: Data Structures (91), Internet Protocols (92), Security and Authentication (95).
 
 Research Experience
