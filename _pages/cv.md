@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * 2020 - Present, M.S. in Computer Science and Technology, Beijing University of Posts and Telecommunications(BUPT), **Master of Engineering**
-  * Supervisor: [Prof. Xiaohong Huang](https://ieeexplore.ieee.org/author/37281300600)
+  * Supervisor: [Prof. Xiaohong Huang](https://ieeexplore.ieee.org/author/37281300600) Co-advisor: [Dr. Dandan Li](https://ieeexplore.ieee.org/author/37086411844)
   * GPA: 85/100
 * 2016 - 2020, B.S. in E-Commerce Engineering with Law, Queen Mary University of London(QMUL), **Bachelor of Science (Engineering) with First Class Honors**
   * Joint Bachelor Degree Programmes with BUPT
