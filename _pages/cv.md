@@ -22,7 +22,7 @@ Education
   * Relevant Courses: Data Structures (91), Internet Protocols (92), Security and Authentication (95), 
                       Linear Algebra (95), Probability Theory and Mathematical Statistics (95) .
 
-Research Experiences
+Research
 ======
 * 2021 - Present, **A Cluster-Asynchronous Federated Multi-task Learning
 (MSc Thesis) (Paper in submitting)**
