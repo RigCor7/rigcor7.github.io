@@ -22,7 +22,7 @@ Education
   * Relevant Courses: Data Structures (91), Internet Protocols (92), Security and Authentication (95), 
                       Linear Algebra (95), Probability Theory and Mathematical Statistics (95) .
 
-Research Experience
+Research Experiences
 ======
 * 2021 - Present, **A Cluster-Asynchronous Federated Multi-task Learning
 (MSc Thesis) (Paper in submitting)**
@@ -42,6 +42,13 @@ Project Experiences
 * 2019 – 2020, **A Mobile App for Collecting Network Measurement Data (BSc Thesis)**
   * Intro: Implement an App that can measure the network conditions of users and visualize the results.
   *	Duties: Measure basic network information, including bandwidth, DNS resolution, etc; Implement data visualization.
+
+Patents
+======
+* Nov 2022, **The invention relates to a network measurement method and system (Grant)**
+  * Patent Number: ZL202111094990.6
+  * An active measurement system based on consortium chain;
+  * Ensure the safety and reliability of the probes and the users.
 
 Teaching
 ======
