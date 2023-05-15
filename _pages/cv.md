@@ -39,6 +39,10 @@ Project Experiences
   * Intro: Implement an active probe system based on IPv4/IPv6.
   * Duties: Coordinate work as a team leader; Implement probe functions, including probe measurements, authentication, etc.
 
+* 2020 – 2021, **IPv6 Support Measurement System**
+  * Intro: Implement a system to measure websites' support for ipv6.
+  * Duties: Coordinate work as a team leader; Implement web scraping and web comparison functions, including image interception, text extraction and analysis, etc.
+
 * 2019 – 2020, **A Mobile App for Collecting Network Measurement Data (BSc Thesis)**
   * Intro: Implement an App that can measure the network conditions of users and visualize the results.
   *	Duties: Measure basic network information, including bandwidth, DNS resolution, etc; Implement data visualization.
