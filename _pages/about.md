@@ -16,6 +16,4 @@ I am seeking for CS/ECE PhD opportunities.
 
 ## Research Interests
 
-- Next Generation Internet
-
-- Network and Web Security
+- Network and Computer Security
