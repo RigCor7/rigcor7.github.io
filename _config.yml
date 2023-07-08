@@ -31,7 +31,7 @@ comments:
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
 staticman:
-  allowedFields          : ['name', 'description', 'email', 'url', 'message']
+  allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   # bio              : "./files/Yuqi_Zhao_CV.pdf"
   location         : "Beijing, China"
-  employer         :
+  employer         : "LERIA"
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   # googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : "zhaoyuqi@bupt.edu.cn"
