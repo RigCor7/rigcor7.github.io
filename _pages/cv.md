@@ -13,14 +13,11 @@ Education
 ======
 * 2020 - 2023, M.S. in Computer Science and Technology, [Beijing University of Posts and Telecommunications(BUPT)](https://en.wikipedia.org/wiki/Beijing_University_of_Posts_and_Telecommunications), **Master of Engineering**
   * Supervisor: [Prof. Xiaohong Huang](https://ieeexplore.ieee.org/author/37281300600) Co-advisor: [Dr. Dandan Li](https://ieeexplore.ieee.org/author/37086411844)
-  * GPA: 85/100
+
 * 2016 - 2020, B.S. in E-Commerce Engineering with Law, [Queen Mary University of London(QMUL)](https://www.qmul.ac.uk/), **Bachelor of Science (Engineering) with First Class Honors**
   * Joint Bachelor Degree Programmes with BUPT
-* 2016 - 2020, B.S. in E-Commerce Engineering with Law, BUPT
+* 2016 - 2020, B.S. in E-Commerce Engineering with Law, BUPT, **Bachelor of Manager**
   * Minor in Internet of Things Engineering
-  * GPA: 86.06/100 (16/171)
-  * Relevant Courses: Data Structures (91), Internet Protocols (92), Security and Authentication (95), 
-                      Linear Algebra (95), Probability Theory and Mathematical Statistics (95) .
 
 Teaching
 ======
