@@ -11,6 +11,9 @@ redirect_from:
 
 Education
 ======
+* 2023- Present, Ph.D in Computer Science, University of Angers
+  * Supervisor: [Prof. Jin-Kao Hao](https://leria-info.univ-angers.fr/~jinkao.hao/)
+
 * 2020 - 2023, M.S. in Computer Science and Technology, [Beijing University of Posts and Telecommunications(BUPT)](https://en.wikipedia.org/wiki/Beijing_University_of_Posts_and_Telecommunications), **Master of Engineering**
   * Supervisor: [Prof. Xiaohong Huang](https://ieeexplore.ieee.org/author/37281300600) Co-advisor: [Dr. Dandan Li](https://ieeexplore.ieee.org/author/37086411844)
 
@@ -25,7 +28,7 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-[Resume](../files/Yuqi_Zhao_CV.pdf)
+<!-- [Resume](../files/Yuqi_Zhao_CV.pdf) -->
 ======
 
 <!-- Publications
