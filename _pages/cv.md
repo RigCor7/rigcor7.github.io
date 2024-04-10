@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* 2023- Present, Ph.D in Computer Science, University of Angers
-  * Supervisor: [Prof. Jin-Kao Hao](https://leria-info.univ-angers.fr/~jinkao.hao/) Co-supervisor: [Prof. Eric Monfroy](https://www.univ-angers.fr/fr/acces-directs/annuaire-2/m/o/uduser-e-monfroy-fr.html)
+* 2023- Present, Ph.D Candidate in Computer Science, University of Angers
+  * Supervisor: [Prof. Jin-Kao Hao](https://leria-info.univ-angers.fr/~jinkao.hao/) Co-supervisor: [Prof. Eric Monfroy](https://scholar.google.com/citations?user=1ULUsmIAAAAJ&hl=en)
 
 * 2020 - 2023, M.S. in Computer Science and Technology, [Beijing University of Posts and Telecommunications(BUPT)](https://en.wikipedia.org/wiki/Beijing_University_of_Posts_and_Telecommunications), **Master of Engineering**
   * Supervisor: [Prof. Xiaohong Huang](https://ieeexplore.ieee.org/author/37281300600) Co-supervisor: [Dr. Dandan Li](https://ieeexplore.ieee.org/author/37086411844)
@@ -22,16 +22,20 @@ Education
 * 2016 - 2020, B.S. in E-Commerce Engineering with Law, BUPT, **Bachelor of Manager**
   * Minor in Internet of Things Engineering
 
+Patents
+======
+* Nov.2022, **A Network Measurement Method and System**, First Student Author
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-<!-- [Resume](../files/Yuqi_Zhao_CV.pdf)
+[Resume](../files/Yuqi_Zhao_CV.pdf)
 ======
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
