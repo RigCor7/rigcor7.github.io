@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * 2024 - now, PhD Student in Computer and Control Engineering, Politecnico di Torino
-  * Supervisor: [Prof. Macro Mella](https://www.telematica.polito.it/member/marco-mellia/)
+  * Supervisor: [Prof. Macro Mellia](https://www.telematica.polito.it/member/marco-mellia/)
 
 * 2023 - 2024, Research Assistant in Computer Science, Universite d'Angers
   * Supervisor: [Prof. Jin-Kao Hao](https://leria-info.univ-angers.fr/~jinkao.hao/) Co-supervisor: [Prof. Eric Monfroy](https://www.univ-angers.fr/fr/acces-directs/annuaire-2/m/o/uduser-e-monfroy-fr.html)
