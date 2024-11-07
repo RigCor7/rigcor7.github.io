@@ -11,8 +11,11 @@ redirect_from:
 
 Education
 ======
-* 2023- Present, Ph.D Candidate in Computer Science, University of Angers
-  * Supervisor: [Prof. Jin-Kao Hao](https://leria-info.univ-angers.fr/~jinkao.hao/) Co-supervisor: [Prof. Eric Monfroy](https://scholar.google.com/citations?user=1ULUsmIAAAAJ&hl=en)
+* 2024 - now, PhD Student in Computer and Control Engineering, Politecnico di Torino
+  * Supervisor: [Prof. Macro Mella](https://www.telematica.polito.it/member/marco-mellia/)
+
+* 2023 - 2024, Research Assistant in Computer Science, Universite d'Angers
+  * Supervisor: [Prof. Jin-Kao Hao](https://leria-info.univ-angers.fr/~jinkao.hao/) Co-supervisor: [Prof. Eric Monfroy](https://www.univ-angers.fr/fr/acces-directs/annuaire-2/m/o/uduser-e-monfroy-fr.html)
 
 * 2020 - 2023, M.S. in Computer Science and Technology, [Beijing University of Posts and Telecommunications(BUPT)](https://en.wikipedia.org/wiki/Beijing_University_of_Posts_and_Telecommunications), **Master of Engineering**
   * Supervisor: [Prof. Xiaohong Huang](https://ieeexplore.ieee.org/author/37281300600) Co-supervisor: [Dr. Dandan Li](https://ieeexplore.ieee.org/author/37086411844)
