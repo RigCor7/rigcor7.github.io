@@ -25,7 +25,7 @@ Education
 * 2016 - 2020, B.S. in E-Commerce Engineering with Law, BUPT, **Bachelor of Manager**
   * Minor in Internet of Things Engineering
 
-Patents
+<!-- Patents
 ======
 * Nov.2022, **A Network Measurement Method and System**, First Student Author
 
@@ -35,7 +35,7 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-[Resume](../files/Yuqi_Zhao_CV.pdf)
+[Resume](../files/Yuqi_Zhao_CV.pdf) -->
 ======
 
 <!-- Publications

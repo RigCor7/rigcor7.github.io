@@ -25,4 +25,4 @@ Before that, I did one year research at [LERIA](https://leria.univ-angers.fr/), 
 
 ## Opportunity Search
 
-- I am looking for internship or visiting PhD opportunities related to cybersecurity. If you are interested, please contact me. Thank you. ：）
+- I am looking for internship or visiting PhD opportunities related to cybersecurity. If you are interested in, please contact me. Thank you. ：）
