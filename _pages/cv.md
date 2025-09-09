@@ -24,34 +24,3 @@ Education
   * Joint Bachelor Degree Programmes with BUPT
 * 2016 - 2020, B.S. in E-Commerce Engineering with Law, BUPT, **Bachelor of Manager**
   * Minor in Internet of Things Engineering
-
-<!-- Patents
-======
-* Nov.2022, **A Network Measurement Method and System**, First Student Author
-
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-[Resume](../files/Yuqi_Zhao_CV.pdf) -->
-======
-
-<!-- Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul> -->
-  
-
-  
-<!-- Service and leadership
-======
-* Currently signed in to 43 different slack teams -->
