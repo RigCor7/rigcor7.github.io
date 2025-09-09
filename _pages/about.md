@@ -16,7 +16,7 @@ Before that, I did one year research at [LERIA](https://leria.univ-angers.fr/), 
 
 ## Research Interests
 
-- intersection between Network Traffic Monitor and Artificial Intelligence 
+- Intersection between Network Traffic Monitor and Artificial Intelligence 
 
 
 ## What’s New
