@@ -15,12 +15,18 @@ Education
   * Supervisor: [Prof. Macro Mellia](https://www.telematica.polito.it/member/marco-mellia/) Co-supervisor: [Dr. Danilo Giordano](https://smartdata.polito.it/members/danilo-giordano/)
 
 * 2023 - 2024, Research Assistant in Computer Science, Universite d'Angers
-  * Supervisor: [Prof. Jin-Kao Hao](https://leria-info.univ-angers.fr/~jinkao.hao/) Co-supervisor: [Prof. Eric Monfroy](https://www.univ-angers.fr/fr/acces-directs/annuaire-2/m/o/uduser-e-monfroy-fr.html)
+  * Supervisor: [Prof. Jin-Kao Hao](https://leria-info.univ-angers.fr/~jinkao.hao/) Co-supervisor: [Prof. Eric Monfroy](https://scholar.google.com/citations?user=1ULUsmIAAAAJ&hl=en)
+  * Research Topic: Hybrid Heuristic Approaches for Solving Multi-Agent Path Finding Problem
 
 * 2020 - 2023, M.S. in Computer Science and Technology, [Beijing University of Posts and Telecommunications(BUPT)](https://en.wikipedia.org/wiki/Beijing_University_of_Posts_and_Telecommunications), **Master of Engineering**
   * Supervisor: [Prof. Xiaohong Huang](https://ieeexplore.ieee.org/author/37281300600) Co-supervisor: [Dr. Dandan Li](https://ieeexplore.ieee.org/author/37086411844)
+  * Master Thesis: A Cluster-Asynchronous Federated Multi-Task Learning
 
 * 2016 - 2020, B.S. in E-Commerce Engineering with Law, [Queen Mary University of London(QMUL)](https://www.qmul.ac.uk/), **Bachelor of Science (Engineering) with First Class Honors**
   * Joint Bachelor Degree Programmes with BUPT
 * 2016 - 2020, B.S. in E-Commerce Engineering with Law, BUPT, **Bachelor of Manager**
   * Minor in Internet of Things Engineering
+  * Supervisor: [Prof. Gareth Tyson](https://tysong.github.io)
+  * Bachelor Thesis: A Mobile App for Collecting Network Measurement Data
+
+[Resume](../files/YuqiZhao.pdf)
