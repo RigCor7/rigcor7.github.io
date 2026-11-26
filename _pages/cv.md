@@ -14,6 +14,10 @@ Education
 * 2024 - now, PhD Student in Computer and Control Engineering, Politecnico di Torino
   * Supervisor: [Prof. Marco Mellia](https://www.telematica.polito.it/member/marco-mellia/) 
 
+* Sep 2026 - now, Visiting PhD Student, [Agency for Science, Technology and Research (A*STAR)](https://www.a-star.edu.sg), Singapore
+  * Supervisor: [Dr. Dinil Mon Divakaran](https://www.dinil.net)
+  * Research Topic: Agentic Browser Security
+
 * 2023 - 2024, Research Assistant in Computer Science, Universite d'Angers
   * Supervisor: [Prof. Jin-Kao Hao](https://leria-info.univ-angers.fr/~jinkao.hao/) Co-supervisor: [Prof. Eric Monfroy](https://scholar.google.com/citations?user=1ULUsmIAAAAJ&hl=en)
   * Research Topic: Hybrid Heuristic Approaches for Solving Multi-Agent Path Finding Problem
@@ -28,5 +32,12 @@ Education
   * Minor in Internet of Things Engineering
   * Supervisor: [Prof. Gareth Tyson](https://tysong.github.io)
   * Bachelor Thesis: A Mobile App for Collecting Network Measurement Data
+
+Service
+======
+
+- Reviewer, IEEE Transactions on Information Forensics and Security (TIFS)
+- Reviewer, IEEE Transactions on Network and Service Management (TNSM)
+- Shadow TPC, ACM CoNEXT 2026
 
 [Resume](../files/YuqiZhao.pdf)
